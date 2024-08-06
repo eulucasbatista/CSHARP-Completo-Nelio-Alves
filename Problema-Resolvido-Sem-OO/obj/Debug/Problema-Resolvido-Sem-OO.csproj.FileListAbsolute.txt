@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\bin\Debug\Problema-Resolvido-Sem-OO.exe.config
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\bin\Debug\Problema-Resolvido-Sem-OO.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\bin\Debug\Problema-Resolvido-Sem-OO.pdb
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\obj\Debug\Problema-Resolvido-Sem-OO.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\obj\Debug\Problema-Resolvido-Sem-OO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\obj\Debug\Problema-Resolvido-Sem-OO.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-Completo-Nelio-Alves\Problema-Resolvido-Sem-OO\obj\Debug\Problema-Resolvido-Sem-OO.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\bin\Debug\CSHARP-COMPLETO-NELIO-ALVES.exe.config
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\bin\Debug\CSHARP-COMPLETO-NELIO-ALVES.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\bin\Debug\CSHARP-COMPLETO-NELIO-ALVES.pdb
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\obj\Debug\CSHARP-COMPLETO-NELIO-ALVES.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\obj\Debug\CSHARP-COMPLETO-NELIO-ALVES.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\obj\Debug\CSHARP-COMPLETO-NELIO-ALVES.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\CSHARP-COMPLETO-NELIO-ALVES\obj\Debug\CSHARP-COMPLETO-NELIO-ALVES.pdb
