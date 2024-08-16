@@ -27,6 +27,14 @@ namespace Problema_Resolvido_Sem_OO
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
+            if (areaX > areaY)
+            {
+                Console.WriteLine("Maior área: X");
+           }
+            else
+            {
+                Console.WriteLine("Maior área: Y");
+            }
             Console.ReadLine();
         }
     }
