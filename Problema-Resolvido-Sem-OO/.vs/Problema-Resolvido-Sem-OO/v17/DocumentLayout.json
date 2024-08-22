@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Problema-Resolvido-Sem-OO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Downloads\\ED\\aula 1\\atividade ed 5\\main.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D28DE50-1DF4-40EC-9D4B-DEAF30FB3FA5}|Problema-Resolvido-Sem-OO.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\problema-resolvido-sem-oo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28DE50-1DF4-40EC-9D4B-DEAF30FB3FA5}|Problema-Resolvido-Sem-OO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\ED\\aula 1\\atividade ed 5\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\ED\\aula 1\\atividade ed 5\\main.c",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\ED\\aula 1\\atividade ed 5\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\ED\\aula 1\\atividade ed 5\\main.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-19T18:21:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Problema-Resolvido-Sem-OO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Problema-Resolvido-Sem-OO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBIAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T16:23:03.136Z",
               "EditorCaption": ""
