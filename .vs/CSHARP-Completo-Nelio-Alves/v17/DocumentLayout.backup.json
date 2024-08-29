@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D0F6587-90B4-4B32-960F-2295082174E3}|CSHARP-COMPLETO-NELIO-ALVES\\CSHARP-COMPLETO-NELIO-ALVES.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D0F6587-90B4-4B32-960F-2295082174E3}|CSHARP-COMPLETO-NELIO-ALVES\\CSHARP-COMPLETO-NELIO-ALVES.csproj|solutionrelative:csharp-completo-nelio-alves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\exercicio2classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|solutionrelative:exercicio2classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\exercicio2classesobjetosatributos\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|solutionrelative:exercicio2classesobjetosatributos\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\exercicio1classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|solutionrelative:exercicio1classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\consoleapp1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Exercicio1ClassesObjetosAtributos\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1ClassesObjetosAtributos\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Exercicio1ClassesObjetosAtributos\\Program.cs",
+              "RelativeToolTip": "Exercicio1ClassesObjetosAtributos\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:50:21.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-COMPLETO-NELIO-ALVES\\Exercicio2ClassesObjetosAtributos\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Exercicio2ClassesObjetosAtributos\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-COMPLETO-NELIO-ALVES\\Exercicio2ClassesObjetosAtributos\\Funcionarios.cs",
+              "RelativeToolTip": "Exercicio2ClassesObjetosAtributos\\Funcionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:25:58.428Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\CSHARP-COMPLETO-NELIO-ALVES\\Program.cs",
-              "RelativeDocumentMoniker": "CSHARP-COMPLETO-NELIO-ALVES\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\CSHARP-COMPLETO-NELIO-ALVES\\Program.cs",
-              "RelativeToolTip": "CSHARP-COMPLETO-NELIO-ALVES\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Exercicio2ClassesObjetosAtributos\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2ClassesObjetosAtributos\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\Exercicio2ClassesObjetosAtributos\\Program.cs",
+              "RelativeToolTip": "Exercicio2ClassesObjetosAtributos\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCEAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T01:41:18.536Z",
+              "WhenOpened": "2024-08-29T00:24:35.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:30:51.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\ConsoleApp1\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\ConsoleApp1\\Triangulo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:35:12.877Z",
               "EditorCaption": ""
             }
           ]

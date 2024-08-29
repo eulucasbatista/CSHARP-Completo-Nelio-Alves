@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\bin\Debug\Exercicio2ClassesObjetosAtributos.exe.config
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\bin\Debug\Exercicio2ClassesObjetosAtributos.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\bin\Debug\Exercicio2ClassesObjetosAtributos.pdb
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\obj\Debug\Exercicio2ClassesObjetosAtributos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\obj\Debug\Exercicio2ClassesObjetosAtributos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\obj\Debug\Exercicio2ClassesObjetosAtributos.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\Exercicio2ClassesObjetosAtributos\obj\Debug\Exercicio2ClassesObjetosAtributos.pdb

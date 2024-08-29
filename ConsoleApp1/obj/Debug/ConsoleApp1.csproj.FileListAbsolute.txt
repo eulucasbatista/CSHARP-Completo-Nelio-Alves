@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lucas\Documents\GitHub\Csharp-Completo-Nelio-Alves\CSHARP-COMPLETO-NELIO-ALVES\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

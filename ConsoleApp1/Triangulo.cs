@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Triangulo
+      class Triangulo
     {
 
         public double A;
