@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\consoleapp1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\consoleapp1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{8D531F79-05F8-4239-B183-FFFE3A347D3D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\exercicio1classesobjetosatributos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\exercicio1classesobjetosatributos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|solutionrelative:exercicio1classesobjetosatributos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{52E4BEE5-C6E9-4217-8C69-C49D9F768C09}|Exercicio1ClassesObjetosAtributos\\Exercicio1ClassesObjetosAtributos.csproj|solutionrelative:exercicio1classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|c:\\users\\lucas\\documents\\github\\csharp-completo-nelio-alves\\csharp-completo-nelio-alves\\exercicio2classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Csharp-Completo-Nelio-Alves\\CSHARP-Completo-Nelio-Alves\\exercicio2classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64083CE-4EB8-4977-AC60-B419C48D5FE5}|Exercicio2ClassesObjetosAtributos\\Exercicio2ClassesObjetosAtributos.csproj|solutionrelative:exercicio2classesobjetosatributos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T23:50:21.524Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Exercicio1ClassesObjetosAtributos\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:44:24.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:44:24.253Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Exercicio2ClassesObjetosAtributos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:24:35.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T00:24:35.549Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA0wBIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T23:30:51.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T23:30:51.476Z"
             },
             {
               "$type": "Document",
